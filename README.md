@@ -6,7 +6,7 @@
 ###### level 6 header
 normal
 
-** this is not bold text **
+**this is not bold text**
 
 _definitely not italics_
 
