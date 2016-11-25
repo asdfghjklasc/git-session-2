@@ -23,7 +23,7 @@ _definitely not italics_
 1. LOL
 1. lel
 
-[get fucked](reddit.com/r/nosleep)
+[get fucked](http://www.reddit.com/r/nosleep)
 
 ![LOOOOL](http://i3.kym-cdn.com/entries/icons/facebook/000/004/815/lol-guy.jpg)
 
